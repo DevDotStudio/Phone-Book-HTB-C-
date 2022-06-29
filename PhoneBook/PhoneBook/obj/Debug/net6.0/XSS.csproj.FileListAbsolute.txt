@@ -1,0 +1,15 @@
+C:\Users\beyou\Vs Projects\XSS\XSS\bin\Debug\net6.0\XSS.exe
+C:\Users\beyou\Vs Projects\XSS\XSS\bin\Debug\net6.0\XSS.deps.json
+C:\Users\beyou\Vs Projects\XSS\XSS\bin\Debug\net6.0\XSS.runtimeconfig.json
+C:\Users\beyou\Vs Projects\XSS\XSS\bin\Debug\net6.0\XSS.dll
+C:\Users\beyou\Vs Projects\XSS\XSS\bin\Debug\net6.0\XSS.pdb
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\XSS.csproj.AssemblyReference.cache
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\XSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\XSS.AssemblyInfoInputs.cache
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\XSS.AssemblyInfo.cs
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\XSS.csproj.CoreCompileInputs.cache
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\XSS.dll
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\refint\XSS.dll
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\XSS.pdb
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\XSS.genruntimeconfig.cache
+C:\Users\beyou\Vs Projects\XSS\XSS\obj\Debug\net6.0\ref\XSS.dll
